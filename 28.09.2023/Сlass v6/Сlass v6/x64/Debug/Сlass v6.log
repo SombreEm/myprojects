@@ -1,0 +1,8 @@
+﻿  Сlass v6.cpp
+D:\C++\Сlass v6\Сlass v6\Сlass v6.cpp(100,39): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\Сlass v6\Сlass v6\Сlass v6.cpp(102,37): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\Сlass v6\Сlass v6\Сlass v6.cpp(102,32): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\Сlass v6\Сlass v6\Сlass v6.cpp(104,41): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\Сlass v6\Сlass v6\Сlass v6.cpp(104,36): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\Сlass v6\Сlass v6\Сlass v6.cpp(106,43): warning C4305: аргумент: усечение из "double" в "float"
+  Сlass v6.vcxproj -> D:\C++\Сlass v6\x64\Debug\Сlass v6.exe
