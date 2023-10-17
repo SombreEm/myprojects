@@ -1,0 +1,3 @@
+﻿  class v9.cpp
+D:\C++\class v9\class v9\class v9.cpp(104,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class v9.vcxproj -> D:\C++\class v9\x64\Debug\class v9.exe
