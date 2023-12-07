@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(43,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
